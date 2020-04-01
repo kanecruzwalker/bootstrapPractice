@@ -5,5 +5,11 @@
 
 .title{
     margin-bottom: 50px;
-    background-color:blue;
+    background-color: black;
+}
+
+#project-1-text {
+    text-align: center;
+    color: white;
+    
 }
