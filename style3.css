@@ -1,11 +1,20 @@
-#page-header-2{
-    padding: 5%;
-    margin: 0;
-}
-
 .title{
     margin-bottom: 50px;
     background-color: black;
+}
+
+#card-1 {
+    width: 100%;
+    text-align: center;
+}
+
+#image-1 {
+    width: 100%;
+}
+
+#page-header-2{
+    padding: 5%;
+    margin: 0;
 }
 
 #project-1-text {
@@ -13,11 +22,4 @@
     color: white;
     margin: 0;
 }
-#image-1 {
-    width: 100%;
-}
 
-#card-1 {
-    width: 100%;
-    text-align: center;
-}
